@@ -1,0 +1,9 @@
+#
+# Exemplo de frase sintática e semanticamente correta
+
+CARNE:
+    - 1 :: Bife :: 10.00 :: 1;
+    - 2 :: Frango :: 10.00 :: 1;
+
+BLA:
+    - 10 :: Cenas :: 2.00 :: 1;
