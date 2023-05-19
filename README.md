@@ -1,2 +1,3 @@
 # PL
-Exercises of the languages processing subject (year of 2023)
+
+Exercícios correspondentes à UC de processamento de linguagens em 2023
